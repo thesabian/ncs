@@ -525,10 +525,6 @@ ul.costomer li a {
      padding-bottom: 80px;
 }
 
-.main_weare3 {
-     padding-top: 80px;
-}
-
 
 /** end why section **/
 
@@ -816,12 +812,4 @@ $grey: #999;
      color: #41c365;
 }
 
-.phones {
-/* 
-     min-height: 650px;
-     width: auto; */
-
-     height: auto;
-     width: 100%;
-}
 /** end footer **/
