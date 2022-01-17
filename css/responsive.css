@@ -51,7 +51,7 @@
 @media (min-width: 768px) and (max-width: 991px) {
 
     .header_bg {
-        background: url(../images/banner.png);
+        background: url(../images/banner_70.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
@@ -125,7 +125,7 @@
         /* background: #d1e2ff; */
         background: url(../images/banner_70.png);
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
         background-position: top;
     }
 
