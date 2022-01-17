@@ -129,6 +129,13 @@
         background-position: top;
     }
 
+    .header {
+        background: transparent;
+        width: 100%;
+        padding: 20px 10px 20px 10px;
+   }
+
+
     .text-bg {
         max-width: 509px;
         float: none;
@@ -171,6 +178,12 @@
         background-size: cover;
         background-position: top;
     }
+
+    .header {
+        background: transparent;
+        width: 100%;
+        padding: 20px 10px 20px 10px;
+   }
 
     .text-bg {
         float: none;

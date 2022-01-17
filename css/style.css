@@ -338,6 +338,8 @@ ul.costomer li a {
      font-size: 22px;
      line-height: 33px;
      padding: 25px 0;
+     font-family: Poppins;
+
 }
 
 .text-bg a {
@@ -448,14 +450,14 @@ ul.costomer li a {
      /* margin-top: 70px; */
      background: #9aafd1;
      font-family: Poppins;
-     padding: 80px 0;
+     padding: 60px 0;
 }
 
 .weare_white {
      /* margin-top: 70px; */
      background: white;
      font-family: Poppins;
-     padding: 80px 0;
+     padding: 60px 0;
 }
 
 .weare .titlepage {
@@ -520,7 +522,7 @@ ul.costomer li a {
 }
 
 .main_weare {
-     padding-bottom: 30px;
+     padding-bottom: 80px;
 }
 
 
