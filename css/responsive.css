@@ -10,6 +10,15 @@
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
+
+    .header_bg {
+        background: url(../images/banner.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+   }
+
+
     .weare .weare-box p {
         font-size: 15px;
         line-height: 25px;
@@ -40,6 +49,14 @@
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+
+    .header_bg {
+        background: url(../images/banner.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+   }
+   
     .text-bg h1 {
         padding-top: 10px;
         font-size: 44px;
@@ -133,9 +150,9 @@
 }
 
 @media (max-width: 575px) {
-    .header {
+    /* .header {
         padding: 40px 0px 0px 0px;
-    }
+    } */
 
     .logo {
         text-align: center !important;
