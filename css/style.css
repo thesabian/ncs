@@ -285,7 +285,7 @@ ul.costomer li a {
      background: url(../images/banner.png);
      background-repeat: no-repeat;
      background-size: contain;
-     background-position: top;
+     background-position: right;
 }
 
 .header {
@@ -320,9 +320,10 @@ ul.costomer li a {
      font-size: 38px;
      line-height: 50px;
      /* text-transform: uppercase; */
-     padding-bottom: 25px;
-     font-weight: bold;
+     /* padding-bottom: 25px; */
+     font-weight: 500;
      padding-top: 15px;
+     font-family: Poppins;
 }
 
 .text-bg span {
@@ -337,6 +338,8 @@ ul.costomer li a {
      font-size: 22px;
      line-height: 33px;
      padding: 25px 0;
+     font-family: Poppins;
+
 }
 
 .text-bg a {
@@ -444,10 +447,17 @@ ul.costomer li a {
 /** weare section **/
 
 .weare {
-     margin-top: 70px;
+     /* margin-top: 70px; */
      background: #9aafd1;
      font-family: Poppins;
-     padding: 80px 0;
+     padding: 60px 0;
+}
+
+.weare_white {
+     /* margin-top: 70px; */
+     background: white;
+     font-family: Poppins;
+     padding: 60px 0;
 }
 
 .weare .titlepage {
@@ -462,7 +472,7 @@ ul.costomer li a {
      padding: 20px 0px 20px 0px;
      font-size: 29px;
      line-height: 30px;
-     color: #090808;
+     color: #3c495e;
      display: block;
      font-weight: 500;
      text-transform: uppercase;
@@ -479,7 +489,7 @@ ul.costomer li a {
 .weare .weare-box p {
      font-size: 17px;
      line-height: 34px;
-     color: #090808;
+     color: #3c495e;
      padding: 5px 0;
 }
 
@@ -512,7 +522,7 @@ ul.costomer li a {
 }
 
 .main_weare {
-     padding-bottom: 30px;
+     padding-bottom: 80px;
 }
 
 
@@ -675,7 +685,7 @@ $grey: #999;
 }
 
 .contact {
-     padding: 90px 0px;
+     padding: 90px 0px 0px 0px;
      font-family: Poppins;
      background: url(../images/contact_bg.jpg);
      background-repeat: no-repeat;
@@ -801,6 +811,5 @@ $grey: #999;
 .footer a:hover {
      color: #41c365;
 }
-
 
 /** end footer **/
